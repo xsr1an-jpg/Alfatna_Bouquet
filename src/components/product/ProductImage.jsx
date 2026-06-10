@@ -42,7 +42,7 @@ export default function ProductImage({ product, size = 240, className = '' }) {
         {/* Label area */}
         <rect x="82" y="120" width="76" height="60" rx="8" fill={from} opacity="0.12" />
         {/* Brand text */}
-        <text x="120" y="145" textAnchor="middle" fontFamily="serif" fontSize="10" fontWeight="700" fill={to} opacity="0.8">KARYA TANI</text>
+        <text x="120" y="145" textAnchor="middle" fontFamily="serif" fontSize="10" fontWeight="700" fill={to} opacity="0.8">Alfatna Bouquet</text>
         <text x="120" y="160" textAnchor="middle" fontFamily="sans-serif" fontSize="7" fill={to} opacity="0.6">PREMIUM SNACK</text>
       </g>
 
